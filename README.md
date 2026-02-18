@@ -1,4 +1,6 @@
-<img src="GitHub-Banner.png" alt="banner" />
+<div align="center">
+  <img src="GitHubBanner.png" alt="banner"  width="50%" />
+</div>
 
 <h1 align="center">Hi, I'm Jatin Awankar 👋</h1>
 <h3 align="center">Software Engineer focused on scalable web systems</h3>
