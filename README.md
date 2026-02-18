@@ -1,4 +1,4 @@
-<img src="Jatin-Awankar-Banner.png" alt="banner" />
+<img src="GitHub-Banner.png" alt="banner" />
 
 <h1 align="center">Hi, I'm Jatin Awankar 👋</h1>
 <h3 align="center">Software Engineer focused on scalable web systems</h3>
