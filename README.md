@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="GitHubBanner.png" alt="banner"  width="50%" />
+  <img src="GitHubBanner.png" alt="banner"  width="80%" />
 </div>
 
 <h1 align="center">Hi, I'm Jatin Awankar 👋</h1>
