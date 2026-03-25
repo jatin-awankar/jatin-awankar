@@ -1,13 +1,13 @@
-<div align="center">
-  <img src="GitHubBanner.png" alt="banner"  width="80%" />
-</div>
+<!-- <div align="center">
+  <img src="GitHubBanner.png" alt="banner"   />
+</div> -->
 
 <h1 align="center">Hi, I'm Jatin Awankar 👋</h1>
 <h3 align="center">Software Engineer focused on scalable web systems</h3>
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I design and build production-grade web applications from scratch,  
 with a strong focus on:
@@ -28,7 +28,7 @@ Currently exploring:
 
 ---
 
-### 🚀 What I'm Building
+### What I'm Building
 
 - Usage-based SaaS systems
 - Scalable backend APIs
@@ -39,7 +39,7 @@ Interested in early-stage startups and product-focused engineering teams.
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 | Frontend | Backend | Database | Tools & Platforms | Engineering Practices |
 | :-- | :-- | :-- | :-- | :-- |
