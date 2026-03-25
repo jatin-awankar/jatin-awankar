@@ -41,34 +41,23 @@ Interested in early-stage startups and product-focused engineering teams.
 
 ### 🛠 Tech Stack
 
-**Frontend**
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-
-**Backend**
-- Node.js
-- Express
-- PostgreSQL
-- MongoDB
-- Supabase
-
-**Engineering Tools**
-- Git
-- System Design fundamentals
-- REST APIs
-- Authentication (OAuth, JWT)
-- Performance optimization
+| Frontend | Backend | Database | Tools & Platforms | Engineering Practices |
+| :-- | :-- | :-- | :-- | :-- |
+| React | Node.js | PostgreSQL | Git | System Design fundamentals |
+| Next.js | Express | MongoDB | Prisma | Component architecture & Responsive UI |
+| TypeScript | REST APIs | Redis | Mapbox | Performance optimization |
+| Tailwind CSS | Authentication (OAuth, JWT) |  | Supabase | Transactions & constraints |
+|  | API design & versioning |  | AWS | Concurrency & atomic operations |
 
 ---
 
 ### 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/jatin-awankar
-- GitHub: https://github.com/jatin-awankar
+- [LinkedIn](https://linkedin.com/in/jatin-awankar)
+- [X](https://x.com/awankar_jay)
+- [Medium](https://medium.com/@jatinawankar02)
 - Email: jatinawankar02@gmail.com
-- X: https://x.com/awankar_jay
+
 
 ---
 
