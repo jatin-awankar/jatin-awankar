@@ -21,6 +21,7 @@ I enjoy reading documentation deeply, breaking down how things work,
 and building systems that scale beyond just CRUD.
 
 Currently exploring:
+- Open source contributions (actively contributing to production codebases)
 - React internals
 - Backend architecture
 - Distributed systems fundamentals
@@ -48,6 +49,15 @@ Interested in early-stage startups and product-focused engineering teams.
 | TypeScript | REST APIs | Redis | Mapbox | Performance optimization |
 | Tailwind CSS | Authentication (OAuth, JWT) |  | Supabase | Transactions & constraints |
 |  | API design & versioning |  | AWS | Concurrency & atomic operations |
+
+---
+
+### 🔀 Open Source Contributions
+
+| Project | Stars | Contribution | Status |
+| :-- | :-- | :-- | :-- |
+| [OpenStatus](https://github.com/openstatusHQ/openstatus) | 8.7k ⭐ | Added loading skeleton to status pages list — replaced blank loading state with `DataTableSkeleton` component | ✅ Merged [#2261](https://github.com/openstatusHQ/openstatus/pull/2261) |
+| [OpenStatus](https://github.com/openstatusHQ/openstatus) | 8.7k ⭐ | Added loading state to `DomainConfiguration` — wired existing `isLoading` to show spinner during domain queries | ⏳ In Review [#2276](https://github.com/openstatusHQ/openstatus/pull/2276) |
 
 ---
 
